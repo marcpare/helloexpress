@@ -1,0 +1,8 @@
+{
+  "name": "helloexpress",
+  "description": "bare bones express js app",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
